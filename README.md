@@ -5,17 +5,26 @@ Each file focuses on a different concept to strengthen core web development skil
 🛠️ Technologies Used
 
 HTML5 – Page structure
+
 CSS3 – Styling and layout
+
 JavaScript (basic) – Interactivity
+
 VS Code – Code editor
+
 Git & GitHub – Version control
+
 
 🌱 Learning Goals
 
 Understand core HTML structure
+
 Apply CSS for responsive layout
+
 Practice form design and table formatting
+
 Learn SEO basics and meta tag implementation
+
 Build confidence in frontend coding
 
 👩‍💻 Developer
