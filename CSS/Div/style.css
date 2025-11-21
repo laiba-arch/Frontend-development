@@ -1,0 +1,64 @@
+body{
+    background-color: aliceblue;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    color: rgb(94, 22, 22);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.section{
+    display: flex;
+    gap: 40px;                      
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 12px;
+    width: 90%;
+}
+
+.section1{
+    background-color: rgb(131, 193, 247);
+    border: 2px solid rgb(49, 122, 190);
+    flex-wrap: wrap;
+}
+
+.section2{
+    background-color: rgb(214, 67, 67);
+    border: 2px solid rgb(143, 43, 43);
+    align-items: center; 
+    flex-direction: column;
+}
+
+.section3{
+    background-color: rgb(235, 149, 216);
+    border: 2px solid rgb(168, 45, 131);
+    justify-content: flex-start;
+}
+
+.box{
+    background-color: white;
+    color: rgb(0, 78, 135);
+    padding: 30px;
+    width: 30%;    
+    border-radius: 10px;
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.2);
+}
+
+.box2{
+    background-color: white;
+    color: rgb(117, 0, 0);
+    padding: 30px;
+    width: 20%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.2);
+}
+
+.box3{
+    background-color: white;
+    color: rgb(168, 45, 131);
+    padding: 30px;
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.2);
+}
